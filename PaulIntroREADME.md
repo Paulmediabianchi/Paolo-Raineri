@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Paulmediabianchi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Paulmediabianchi/Paulmediabianchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Innovation & Services Manager | Executive MBA | Brand Ambassador @ Ovum.ai | Former CEO @ MYagonism | Innovation & Data driven | The NEXT MBA.
+- 👀 I’m interested in Startups and Innovation. I'm passionate about Sustainability, Biology, Innovation and how their contamination will lead the next future.
+- 🌱 I’m currently learning Python and Filosofy.
+- 💞️ I’m looking to collaborate on Open Source projects to have a positive impact on this world.
+- 📫 How to reach me: contact me on LinkedIn.
